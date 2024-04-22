@@ -39,13 +39,13 @@ Publish the website in the LocalHost.
         <style>
             .bookpage{
                 width: 400px;
-                height: 600px;
+                height: 680px;
                 color: red;
                 margin-left: auto;
                 margin-right: auto;
                 padding: 20px;
                 font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-                background-image:url(bokimge.jpg);
+                background-image:url(abc.jpg);
                 background-size: cover;
             }
             .insight{
@@ -101,7 +101,7 @@ Publish the website in the LocalHost.
             }
             .mypic{
                 position: relative;
-                top: 190px;
+                top: 180px;
                 left: 300px;
                 width: 100px;
                 height: 100px;
@@ -114,16 +114,16 @@ Publish the website in the LocalHost.
     <body>
         <div class="bookpage">
             <div class="insight">
-                PAGE OF PEGAUSUS
+                PAGE OF TECH
             </div>
             <div class="hrstyle">
                 <hr style="color: greenyellow;">
             </div>
             <div class="booktitle">
-                <h1>Exploring FRANCE in a manner NOBODY DID !!</h1>
+                <h1>Introduction to Fundamentals of HTML,CSS and Javascript</h1>
             </div>
             <div class="subtitle">
-                Exclusive guide of France to keep
+                Exclusive guide of Web Technology to keep
             </div>
             <div class="mypic">
                 <img src="myimg.png" width="100" height="120" alt="">
@@ -147,7 +147,7 @@ Publish the website in the LocalHost.
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2024-04-18 185655.png>)
+![alt text](<book/covdesign/static/Screenshot 2024-04-22 141614.png>)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
